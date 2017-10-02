@@ -10,7 +10,7 @@
     position: relative;
 }
 .paragraph_style {
-    color: rgb(25, 25, 112);
+    color: rgb(0, 0, 0);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 36px;
     font-stretch: normal;
@@ -20,8 +20,8 @@
     letter-spacing: 0;
     line-height: 42px;
     margin-bottom: 0px;
-    margin-left: 5px;
-    margin-right: 0px;
+    margin-left: -25px;
+    margin-right: -20px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -46,7 +46,7 @@
     line-height: 20px;
     margin-bottom: 0px;
     margin-left: 5px;
-    margin-right: 0px;
+    margin-right: -20px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -57,7 +57,7 @@
     text-transform: none;
 }
 .paragraph_style_2 {
-    color: rgb(25, 25, 112);
+    color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 24px;
     font-stretch: normal;
@@ -68,7 +68,7 @@
     line-height: 33px;
     margin-bottom: 0px;
     margin-left: 5px;
-    margin-right: 0px;
+    margin-right: -20px;
     margin-top: 10px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -95,7 +95,7 @@
     line-height: 20px;
 }
 .paragraph_style_3 {
-    color: rgb(25, 25, 112);
+    color: rgb(15, 15, 60);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
@@ -106,7 +106,7 @@
     line-height: 19px;
     margin-bottom: 0px;
     margin-left: 5px;
-    margin-right: 0px;
+    margin-right: -20px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 10px;
@@ -117,7 +117,7 @@
     text-transform: none;
 }
 .Body {
-    color: rgb(0, 0, 58);
+    color: rgb(50, 50, 128);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -127,8 +127,8 @@
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
-    margin-left: 5px;
-    margin-right: 0px;
+    margin-left: 45px;
+    margin-right: -5px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 0px;
@@ -206,7 +206,7 @@ a:hover {
 }
 ol  { 
       padding:0;
-      margin:20px;
+      margin:30px;
       text-indent:0;
       list-style-type:none ;
       list-style-image:none;
@@ -223,8 +223,8 @@ ol  {
     line-height: 1px;
 }
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
+    font-size: 2px;
+    line-height: 2px;
 }
 body { 
     -webkit-text-size-adjust: none;
